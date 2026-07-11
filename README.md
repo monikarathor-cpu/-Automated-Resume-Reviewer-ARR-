@@ -2,6 +2,7 @@
 An intelligent, LLM-powered application designed to parse, analyze, and optimize resumes against job descriptions. By leveraging advanced prompt engineering and text analysis, ARR provides job seekers and recruiters with instant, actionable insights on ATS compatibility, keyword gaps, and overall profile strength. 
 
 Features
+
 Resume Text Extraction: Extracts raw text from multi-page PDF documents.
 
 AI-Powered Analysis: Leverages the Google Gemini API for deep contextual resume evaluation.
@@ -17,6 +18,7 @@ Skill Gap Identification: Automatically flags missing technical skills and core 
 Report Generation: Exports the final evaluation and suggestions into text or PDF formats.
 
 Technologies Used
+
 Language: Python 3.x
 
 AI Engine: Google Gemini API
